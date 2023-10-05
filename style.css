@@ -96,4 +96,13 @@ input{
     flex-wrap:wrap;
 }
 
+.meal{
+    width:20rem;
+    background:var(--white);
+    padding:5px 5px 1.5rem 5px;
+    border-radius: 3px;
+    text-align:center;
+    margin:0 1rem 1rem 0;
+}
+
 
